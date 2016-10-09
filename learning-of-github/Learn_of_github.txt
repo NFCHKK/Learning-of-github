@@ -1,2 +1,3 @@
+2016-10-09 22:12 learn github through git shell
 add new commits
 this is a test file for github learning!
