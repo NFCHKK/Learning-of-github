@@ -1,2 +1,3 @@
+2016-10-10: change this file through git shell
 add new commits
 this is a test file for github learning!
