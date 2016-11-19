@@ -1,0 +1,8 @@
+2016-10-10: change this file through git shell
+2016-10-10 : change this file from web to test fetch and merge
+
+this is a test file for github learning!
+
+2016-11-19£º add new commit for test!
+
+2016-11-19£ºtest git diff
